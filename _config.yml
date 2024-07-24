@@ -1,0 +1,108 @@
+---
+booktitle: Proceedings of the fifth Conference on Health, Inference, and Learning
+shortname: CHIL
+year: '2024'
+volume: '248'
+start: &1 2024-06-27
+end: 2024-06-28
+publisher: PMLR
+published: 2024-07-24
+series: Proceedings of Machine Learning Research
+conference_number: '5'
+layout: proceedings
+issn: 2640-3498
+id: chil2024
+month: 0
+cycles: false
+bibtex_editor: Pollard, Tom and Choi, Edward and Singhal, Pankhuri and Hughes, Michael
+  and Sizikova, Elena and Mortazavi, Bobak and Chen, Irene and Wang, Fei and Sarker,
+  Tasmie and McDermott, Matthew and Ghassemi, Marzyeh
+editor:
+- given: Tom
+  family: Pollard
+- given: Edward
+  family: Choi
+- given: Pankhuri
+  family: Singhal
+- given: Michael
+  family: Hughes
+- given: Elena
+  family: Sizikova
+- given: Bobak
+  family: Mortazavi
+- given: Irene
+  family: Chen
+- given: Fei
+  family: Wang
+- given: Tasmie
+  family: Sarker
+- given: Matthew
+  family: McDermott
+- given: Marzyeh
+  family: Ghassemi
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the fifth Conference on Health, Inference, and Learning
+    Held in Cornell Tech, 2 West Loop Rd, New York, NY 10044. on 27-28 June 2024
+
+  Published as Volume 248 by the Proceedings of Machine Learning Research on 24 July 2024.
+
+  Volume Edited by:
+    Tom Pollard
+    Edward Choi
+    Pankhuri Singhal
+    Michael Hughes
+    Elena Sizikova
+    Bobak Mortazavi
+    Irene Chen
+    Fei Wang
+    Tasmie Sarker
+    Matthew McDermott
+    Marzyeh Ghassemi
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 27--28 Jun
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v248"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v248
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v248
+email: ''
+conference:
+  name: Conference on Health, Inference, and Learning
+  url: https://www.chilconference.org/
+  location: Cornell Tech, 2 West Loop Rd, New York, NY 10044.
+  dates:
+  - *1
+  - 2024-06-28
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v248/chil2024.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v248/chil2024.bib
